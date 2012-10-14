@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+system "chmod #{ARGV.join " "}"

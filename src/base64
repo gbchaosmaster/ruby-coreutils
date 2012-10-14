@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+system "base64 #{ARGV.join " "}"

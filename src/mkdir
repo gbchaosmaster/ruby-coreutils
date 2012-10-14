@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+system "mkdir #{ARGV.join " "}"
